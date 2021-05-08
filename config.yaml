@@ -3,7 +3,7 @@ baseURL: "https://nushankodikara.github.io/portfolio"
 languageCode: "en-US"
 theme: "osprey-delight"
 tags: ["personal", "homepage", "portfolio"]
-#canonifyURLS: true
+canonifyURLS: true
 #googleAnalytics: ""
 disableKinds: ["taxonomy", "taxonomyTerm"]
 enableEmoji: true
@@ -11,8 +11,8 @@ pygmentsUseClasses: true
 publishDir: "/docs"
 ## Generic theme parameters:
 Params:
-    author: "kdevo"
-    description: "Osprey Delight - Example Site"
+    author: "Nushan Kodikara"
+    description: "Portfolio Nushan Kodikara"
 
     # logoBig appears at the top of the page. Use a path relative to the assets dir for auto-resizing.
     logoBig: "osprey-delight.png"
@@ -26,7 +26,7 @@ Params:
 
     # mdTagline can be used instead to specify the tagline in Markdown for more customizability.
     #   Note that {cursor} is a placeholder and will be replaced by the actual cursor HTML when rendering.
-    mdTagline: "# Welcome!\n ## This is Osprey Delight{cursor}"
+    mdTagline: "# Welcome!\n ## Feel Free To Explore{cursor}"
     favicon: "favicon.png"
 
     opengraphImage: "/images/osprey-delight.png"
