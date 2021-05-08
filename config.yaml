@@ -8,7 +8,7 @@ tags: ["personal", "homepage", "portfolio"]
 disableKinds: ["taxonomy", "taxonomyTerm"]
 enableEmoji: true
 pygmentsUseClasses: true
-
+publishDir: "/docs"
 ## Generic theme parameters:
 Params:
     author: "kdevo"
