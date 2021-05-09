@@ -42,13 +42,13 @@ Params:
     Social:
         - type: twitter # the icon to use. can be anything mentioned in "assets/sass/_icons.scss"
           url: ""
-        - type: linkedin
+        - type: facebook
           url: ""
         - type: github
           url: github = "https://github.com/kdevo/osprey-delight"
         - type: stackoverflow
           url: ""
-        - type: spotify
+        - type: fiverr
           url: https://open.spotify.com/artist/5NhBOdJh6T1tgtM5Au1Opl
 
     ## Theme features:
