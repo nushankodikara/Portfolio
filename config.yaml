@@ -41,15 +41,15 @@ Params:
     ## Social links in footer:
     Social:
         - type: twitter # the icon to use. can be anything mentioned in "assets/sass/_icons.scss"
-          url: ""
+          url: "https://www.twitter.com/kodikara_nushan"
         - type: facebook
-          url: ""
+          url: "https://www.facebook.com/Kodikara.nushan"
         - type: github
-          url: github = "https://github.com/kdevo/osprey-delight"
-        - type: stackoverflow
-          url: ""
-        - type: fiverr
-          url: https://open.spotify.com/artist/5NhBOdJh6T1tgtM5Au1Opl
+          url: "https://github.com/nushankodikara"
+        - type: instagram
+          url: "https://www.instagram.com/____nushan_/"
+        - type: mail
+          url: "mailto:nushankodi+contact@gmail.com"
 
     ## Theme features:
     Feat:
@@ -61,7 +61,7 @@ Params:
 
         # useStructuredData for your own https://schema.org/Person (SEO-friendly).
         #   This will be auto-generated dependent on the information you provide in this configuration.
-        useStructuredData: false
+        useStructuredData: true
 
         # structuredDataGitHubUser needs your USERNAME so that the GitHub API is used to fetch more information for structured data.
         #   This will use information that is publically available about your GitHub user profile at https://api.github.com/users/{USERNAME}.
@@ -90,19 +90,19 @@ Menu:
     Main:
         - name: "About"
           identifier: about # the identifier controls the section type (and therewith the appearence).
-          url: "/#about"
+          url: "#about"
           weight: 1
         - name: "Work"
           identifier: gallery
-          url: "/#work"
+          url: "#work"
           weight: 2
         - name: "Blog"
           identifier: blog
-          url: "/#blog"
+          url: "#blog"
           weight: 3
         - name: "Contact"
           identifier: contact
-          url: "/#contact"
+          url: "#contact"
           weight: 4
         # Use icon here to back reference an external site:
         - pre: "<i class='icon icon-link-ext'></i>&nbsp;"
