@@ -65,7 +65,7 @@ Params:
 
         # structuredDataGitHubUser needs your USERNAME so that the GitHub API is used to fetch more information for structured data.
         #   This will use information that is publically available about your GitHub user profile at https://api.github.com/users/{USERNAME}.
-        #structuredDataGitHubUser = "USERNAME"
+        structuredDataGitHubUser: "nushankodikara"
 
         # useTermynal enables Termynal (https://github.com/ines/termynal), a small JS library for showing a terminal "animation" from within your gallery item.
         #   The cool thing is that the library has been stripped-down to a minimum to only have the necessary functionality.
