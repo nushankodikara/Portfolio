@@ -71,7 +71,7 @@ Params:
         #   The cool thing is that the library has been stripped-down to a minimum to only have the necessary functionality.
         useTermynal: true
 
-        googleTagManager: ""
+        googleTagManager: "GTM-MKBQLJN"
 
     # Expert mode: Configure image resizing (some of the settings are not yet publicly documented)
     Image:
