@@ -4,11 +4,12 @@ languageCode: "en-US"
 theme: "osprey-delight"
 tags: ["personal", "homepage", "portfolio"]
 canonifyURLS: true
-#googleAnalytics: ""
+googleAnalytics: "G-QHGC5B92LC"
 disableKinds: ["taxonomy", "taxonomyTerm"]
 enableEmoji: true
 pygmentsUseClasses: true
 publishDir: "/docs"
+
 ## Generic theme parameters:
 Params:
     author: "Nushan Kodikara"
